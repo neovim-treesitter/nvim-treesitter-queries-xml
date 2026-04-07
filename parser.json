@@ -1,7 +1,7 @@
 {
+  "parser_version": "5000ae8f22d11fbe93939b05c1e37cf21117162d",
   "location": "xml",
   "lang": "xml",
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-xml",
-  "semver": false,
-  "parser_version": "5000ae8f22d11fbe93939b05c1e37cf21117162d"
+  "semver": false
 }
